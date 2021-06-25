@@ -7,7 +7,7 @@ public class Class6 {
 		String s1="shabnam";
 		String s2="autoamtion engineer";
 		System.out.println(s1);
-		System.out.println(s2);
+		
 		
 		
 		
